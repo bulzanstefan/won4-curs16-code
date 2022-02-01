@@ -1,0 +1,43 @@
+
+Z
+java:S1854"DRemove this useless assignment to local variable "anotherPersonBox".(õ‹Óë
+Z
+java:S1854"?Remove this useless assignment to local variable "employeeBox".(êœ”ãşÿÿÿÿ
+S
+java:S1854"=Remove this useless assignment to local variable "personBox".(´öâ÷
+Q
+java:S1854";Remove this useless assignment to local variable "newItem".(€³ı¾
+Z
+java:S1854"8Remove this useless assignment to local variable "new2".(¡÷ÿØüÿÿÿÿ8•éô‹ë/
+M
+java:S1854	"8Remove this useless assignment to local variable "item".(§¨"
+U
+java:S1854"8Remove this useless assignment to local variable "old2".(Ñ¢ÇÌ8¬ô‹ë/
+F
+java:S1481")Remove this unused "old2" local variable.(Ñ¢ÇÌ8³ô‹ë/
+X	java:S125"<This block of commented-out lines of code should be removed.(°ÓÚü8´ô‹ë/
+>
+java:S1481	")Remove this unused "item" local variable.(§¨"
+V	java:S125"<This block of commented-out lines of code should be removed.(”Õ¤úÿÿÿÿ
+K
+java:S1481")Remove this unused "new2" local variable.(¡÷ÿØüÿÿÿÿ8¡éô‹ë/
+B
+java:S1481",Remove this unused "newItem" local variable.(€³ı¾
+V	java:S125"<This block of commented-out lines of code should be removed.(ïñæìşÿÿÿÿ
+D
+java:S1481".Remove this unused "personBox" local variable.(´öâ÷
+K
+java:S1481"0Remove this unused "employeeBox" local variable.(êœ”ãşÿÿÿÿ
+K
+java:S1481"5Remove this unused "anotherPersonBox" local variable.(õ‹Óë
+S	java:S106"9Replace this use of System.out or System.err by a logger.(òîÏÀúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Œòˆøÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(×ÁßÃ8ŠÄò‹ë/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¬ıÏ‡8Äò‹ë/
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ùÌ†Æ8ã…Œë/
+e
+java:S5738 "HRemove this call to a deprecated method, it has been marked for removal.(ùÌ†Æ8é…Œë/
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(·²§ô8î…Œë/
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(” Ûò8ñ…Œë/
+c
+java:S1192"FDefine a constant instead of duplicating this literal "salut" 3 times.(×ÁßÃ8ô…Œë/
